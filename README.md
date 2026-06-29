@@ -2,6 +2,9 @@
 
 ## Predicting March Madness Success Using KenPom Analytics
 
+<img width="416" height="278" alt="image" src="https://github.com/user-attachments/assets/5e74763d-9ea0-4256-a189-06119455acaf" />
+
+
 ## Overview
 
 This project investigates whether KenPom's "Four Factors" statistics can predict NCAA Tournament success.
