@@ -29,12 +29,12 @@ The repository is centered around a Jupyter Notebook that documents the complete
 
 ## Analytical Techniques
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Linear Regression
-- Model Evaluation
+- Data cleaning
+- Exploratory data analysis
+- Linear regression
+- Model evaluation
 - Prediction
-- Feature Importance (the image at the top of this README demonstrates the feature importance analysis)
+- Feature importance (the image at the top of this README demonstrates the feature importance analysis)
 
 ## Methodology
 
