@@ -34,7 +34,7 @@ The repository is centered around a Jupyter Notebook that documents the complete
 - Linear regression
 - Model evaluation
 - Prediction
-- Feature importance (the image at the top of this README demonstrates the feature importance analysis)
+- Feature importance
 
 ## Methodology
 
