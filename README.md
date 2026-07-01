@@ -51,7 +51,4 @@ The repository is centered around a Jupyter Notebook that documents the complete
 
 ## Dataset
 
-- Publicly available KenPom statistics
-- 2014-2024 NCAA tournaments
-- Eight predictor variables
-- Tournament wins used as the response variable
+This project used publicly available KenPom statistics from the 2014-2024 seasons.
