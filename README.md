@@ -52,3 +52,5 @@ The repository is centered around a Jupyter Notebook that documents the complete
 ## Dataset
 
 This project used publicly available KenPom statistics from the 2014-2024 seasons.
+
+The KenPom website can be found here: https://kenpom.com/
